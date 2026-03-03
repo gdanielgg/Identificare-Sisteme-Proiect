@@ -2,13 +2,13 @@
 Student: Ghiță Daniel Gulin
 
 
-# 1. Sistem Hidraulic (Regresie Liniară)
+### 1. Sistem Hidraulic (Regresie Liniară)
 
-# 2. Analiză în Frecvență (Semnal Chirp)
+### 2. Analiză în Frecvență (Semnal Chirp)
 
-# 3. Calibrarea Semnalelor SPAB
+### 3. Calibrarea Semnalelor SPAB
 
-# 4. Metode Parametrice
+### 4. Metode Parametrice
 
 
 ---
